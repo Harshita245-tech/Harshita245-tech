@@ -64,7 +64,7 @@ hadoop fs -mkdir /input
 ### 5️⃣ Upload Input File to HDFS
 Create a text file with the required input:
 ```sh
-nano input.txt
+nano wordcount.txt
 ```
 Add the following content:
 ```
