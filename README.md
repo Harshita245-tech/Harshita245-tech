@@ -118,5 +118,5 @@ hadoop fs -rm -r /output
 ---
 
 ## 📌 Conclusion
-This document covers essential  HDFS commandsand MapReduce Word Count execution in Hadoop. It provides a step-by-step guide to uploading files, executing MapReduce jobs, retrieving results, and managing HDFS directories. Understanding these commands and processes is crucial for effectively working with **Hadoop's distributed computing framework. 🚀  
+This document covers essential  HDFS commands and MapReduce Word Count execution in Hadoop. It provides a step-by-step guide to uploading files, executing MapReduce jobs, retrieving results, and managing HDFS directories. Understanding these commands and processes is crucial for effectively working with Hadoop's distributed computing framework. 🚀  
 
