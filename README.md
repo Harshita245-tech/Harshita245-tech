@@ -3,7 +3,7 @@
 # Word Count Program using Hadoop MapReduce
 
 ## 📌 Description
-This program counts the occurrences of each word in a given text document using **Hadoop's MapReduce framework**.
+This program counts the occurrences of each word in a given text document using Hadoop's MapReduce framework.
 
 ---
 
@@ -109,7 +109,7 @@ Each word in the input appears once, so the word count for each is **1**.
 
 ---
 
-## ✅ Cleanup (Optional}
+## ✅ Cleanup (Optional)
 To remove previous output before running again:
 ```sh
 hadoop fs -rm -r /output
